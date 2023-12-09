@@ -1,17 +1,4 @@
-### I'm Antônio de Pádua , a full-time full-stack developer  
-  
-
-
-  
-
-- 🔭 I’m currently working on my personal project Basel,a task manager for teams.  
-  
-
-- 🌱 I’m currently learning Express and Node  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+### Hello there! 👋 I'm a passionate full-stack engineer with expertise in JavaScript and TypeScript. My tech stack includes Express, Node.js, React, and Next.js.
 
 <br/>  
 
