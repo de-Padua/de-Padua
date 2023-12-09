@@ -6,7 +6,6 @@
 I've worked on various projects, contributing to both the server and client-side development. Whether it's crafting robust APIs with Node.js and Express or creating dynamic and responsive user interfaces with React and Next.js, I love the challenges that come with being a full-stack developer.
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
@@ -20,7 +19,6 @@ I've worked on various projects, contributing to both the server and client-side
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
