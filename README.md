@@ -1,9 +1,7 @@
 ### I'm Antônio de Pádua , a full-time full-stack developer  
   
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 - 🔭 I’m currently working on my personal project Basel,a task manager for teams.  
