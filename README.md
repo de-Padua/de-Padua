@@ -10,7 +10,7 @@ I've worked on various projects, contributing to both the server and client-side
 ##  My Skills
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,mongo,express,next,react,tailwind,jest,aws,firebase,redux&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,mongo,express,next,react,tailwind,jest,aws,firebase,nest,redux&theme=light)](https://skills.thijs.gg)
 
 
 
