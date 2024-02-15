@@ -1,7 +1,5 @@
 
 
-# Hi, I'm Antônio de Pádua! 
-
 
 ##  About me
 I'm a passionate full-stack developer with expertise in JavaScript and TypeScript. My tech stack includes Express, Node.js, React, and Next.js.
