@@ -1,5 +1,18 @@
 
 
-I'm a passionate full-stack developer with expertise in JavaScript, TypeScript, and C#. My tech stack includes Node.js and ASP.NET Core.
+👋 Hi, I'm Antônio, a software developer.
 
-I've worked on various projects, contributing to both the server and client-side development. Whether it's crafting robust APIs with Node.js, Express, or ASP.NET Core, or creating dynamic and responsive user interfaces with React and Next.js.
+🚀 Education :  
+
+    Higher Level Technologist Degree in System Analisys ;
+
+✨ My Expertise:
+
+    Full Stack Development: I'm proficient in both frontend and backend technologies, using tools like React.js, Node.js, and Express.js to build robust applications.
+
+🔧 Tech Stack:
+
+    Frontend: HTML, CSS, JavaScript, React.js, Redux
+    Backend: Node.js, Express.js, MongoDB, Firebase
+    Mobile: React Native, Expo
+    Tools & DevOps: Git, Docker, CI/CD pipelines
