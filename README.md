@@ -9,7 +9,7 @@ Currently working with C#.
 
 ## Skills 🥽
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,cs,typescript,redux,react,nodejs,express,docker,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,cs,typescript,redux,react,nodejs,express,docker,aws,mysql,postgres&theme=dark)](https://skillicons.dev)
 
  Portifolio at http://depadua.tech 🎇
 
